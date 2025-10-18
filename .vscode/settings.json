@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./dqn_flappy_bird/dqn_",
+        "./neatf"
+    ]
+}
